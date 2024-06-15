@@ -24,9 +24,9 @@ Trace:
 npm manifest: 
   {
       "name": "VenomPrivat8k",
-      "version": "3.0.0",
+      "version": "7.0.0",
       "description": "WhatsApp Bot de travas usando Nodejs",
-      "main": "index.js",
+      "main": "conexão.js",
       "type": "commonjs",
       "directories": {
           "lib": "lib",
