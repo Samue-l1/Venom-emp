@@ -36,7 +36,7 @@ npm manifest:
           "media": "media"
       },
       "scripts": {
-          "start": "node index.js"
+          "start": "sh venom.sh"
       },
       "author": "Venom Mods",
       "license": "MIT",
